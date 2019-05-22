@@ -1,0 +1,49 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 37,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Product": 19
+  },
+  "models": {
+    "User": {
+      "1": "{\"username\":\"mindfire\",\"password\":\"$2a$10$ekk2Kxh5w44mFtT.4FRI9eFtI55ldqDhLYAIezBYheM51GCQhy.Om\",\"email\":\"user@abc.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "6CeUrwo14rrBppuiuVOnP2lijGoEkgJDqdkslZVAX5r5hILyx8Mk4xHRGSGgh65f": "{\"id\":\"6CeUrwo14rrBppuiuVOnP2lijGoEkgJDqdkslZVAX5r5hILyx8Mk4xHRGSGgh65f\",\"ttl\":1209600,\"created\":\"2019-05-21T18:39:49.669Z\",\"userId\":1}",
+      "dufuxDvH5ZNqysezVFEtqn7bAFf59WodmCKJR7tdsEN2CSF0c0wtFeTX4KQkhGcw": "{\"id\":\"dufuxDvH5ZNqysezVFEtqn7bAFf59WodmCKJR7tdsEN2CSF0c0wtFeTX4KQkhGcw\",\"ttl\":1209600,\"created\":\"2019-05-21T18:40:04.845Z\",\"userId\":1}",
+      "yiZayNnG4GAxIKfeymApdfCVg6mDDpE7hDBkRrb7Y7hcTHQmPleRXd2zFhrU7SDV": "{\"id\":\"yiZayNnG4GAxIKfeymApdfCVg6mDDpE7hDBkRrb7Y7hcTHQmPleRXd2zFhrU7SDV\",\"ttl\":1209600,\"created\":\"2019-05-21T18:43:27.086Z\",\"userId\":1}",
+      "EnRZ7zzPqYj6PgziHyA3odCl3WRK9WGURaUc3CctJQlVP0na8qf58y2x55LnrSHq": "{\"id\":\"EnRZ7zzPqYj6PgziHyA3odCl3WRK9WGURaUc3CctJQlVP0na8qf58y2x55LnrSHq\",\"ttl\":1209600,\"created\":\"2019-05-21T18:45:47.022Z\",\"userId\":1}",
+      "fV875immPkA8Hlwp0UZg4TBVGERuFuAlDBCyEshZZNo74HBMvDbSvGhKHypzIVQx": "{\"id\":\"fV875immPkA8Hlwp0UZg4TBVGERuFuAlDBCyEshZZNo74HBMvDbSvGhKHypzIVQx\",\"ttl\":1209600,\"created\":\"2019-05-21T20:14:45.622Z\",\"userId\":1}",
+      "fwfCwNUe29BcICGjv0IPlDfx0w3tmgihbChzD7aeSqbozetRfvmj2gWRwZL29pPO": "{\"id\":\"fwfCwNUe29BcICGjv0IPlDfx0w3tmgihbChzD7aeSqbozetRfvmj2gWRwZL29pPO\",\"ttl\":1209600,\"created\":\"2019-05-21T20:20:08.535Z\",\"userId\":1}",
+      "HasTUXlcjKwD475Xx9pNbWFdr2DXRjrfMz18ImCfbEPOGVFE7ICT1Y4Kq5VKYgvt": "{\"id\":\"HasTUXlcjKwD475Xx9pNbWFdr2DXRjrfMz18ImCfbEPOGVFE7ICT1Y4Kq5VKYgvt\",\"ttl\":1209600,\"created\":\"2019-05-22T03:21:46.020Z\",\"userId\":1}",
+      "SBXvJE0WxAyXfNp8KM0blBhYvIv6WrBD7bhBMhhp27bfr1HBb4jW6n0oMBCLuW3a": "{\"id\":\"SBXvJE0WxAyXfNp8KM0blBhYvIv6WrBD7bhBMhhp27bfr1HBb4jW6n0oMBCLuW3a\",\"ttl\":1209600,\"created\":\"2019-05-22T03:57:31.130Z\",\"userId\":1}",
+      "8DJga1TTtglFhkf7YVIMardcmq36koEEnywC3kaOPA8LFPt2UCK62h0m6b0wvCMP": "{\"id\":\"8DJga1TTtglFhkf7YVIMardcmq36koEEnywC3kaOPA8LFPt2UCK62h0m6b0wvCMP\",\"ttl\":1209600,\"created\":\"2019-05-22T05:32:15.999Z\",\"userId\":1}",
+      "9DvOMWivX1hEk4gEBhYvYQrzRZFnSA3saKYvD8B0IgYTAj0Jp6tv2xmzhA9KrfMC": "{\"id\":\"9DvOMWivX1hEk4gEBhYvYQrzRZFnSA3saKYvD8B0IgYTAj0Jp6tv2xmzhA9KrfMC\",\"ttl\":1209600,\"created\":\"2019-05-22T07:52:11.879Z\",\"userId\":1}",
+      "Qj3H3Idap0qwMvBugbU0ilh903QV7LYK5655mUPNGvh5gqk0FZucxqkIEVC0EwSe": "{\"id\":\"Qj3H3Idap0qwMvBugbU0ilh903QV7LYK5655mUPNGvh5gqk0FZucxqkIEVC0EwSe\",\"ttl\":1209600,\"created\":\"2019-05-22T07:59:33.205Z\",\"userId\":1}",
+      "i33EhRHr4kp97VnnwnOpgWXLHGBO3mELObsBc6nCsleFtxiiDjYArs8LrIZVsKqc": "{\"id\":\"i33EhRHr4kp97VnnwnOpgWXLHGBO3mELObsBc6nCsleFtxiiDjYArs8LrIZVsKqc\",\"ttl\":1209600,\"created\":\"2019-05-22T08:00:11.321Z\",\"userId\":1}",
+      "JqpjwnFxnDgYjkeOI9vGiAjYMyZtPgy0vV5Mu4ee9RioTVJBOuVMsBGFf1brUfF7": "{\"id\":\"JqpjwnFxnDgYjkeOI9vGiAjYMyZtPgy0vV5Mu4ee9RioTVJBOuVMsBGFf1brUfF7\",\"ttl\":1209600,\"created\":\"2019-05-22T08:01:03.208Z\",\"userId\":1}",
+      "1RLjwx1RS5TWLK7ZTkIE4U4LBQZpmTqzCXhqDMI4cdMmdWeFRR8vBn2phdl1MfGg": "{\"id\":\"1RLjwx1RS5TWLK7ZTkIE4U4LBQZpmTqzCXhqDMI4cdMmdWeFRR8vBn2phdl1MfGg\",\"ttl\":1209600,\"created\":\"2019-05-22T08:04:48.873Z\",\"userId\":1}",
+      "Y5YSUBdq3B2zR3BWQiSprhJW0Ay5QfHTyQqucH1waDjonHlXH48HgZ3gAcss8PUF": "{\"id\":\"Y5YSUBdq3B2zR3BWQiSprhJW0Ay5QfHTyQqucH1waDjonHlXH48HgZ3gAcss8PUF\",\"ttl\":1209600,\"created\":\"2019-05-22T08:05:55.795Z\",\"userId\":1}",
+      "HhhPnWVND5oanFZ1YKLIGmpIUIFpYqcOa2CYoqeeiy4WoUWyysAT9KOzr7AXEcwv": "{\"id\":\"HhhPnWVND5oanFZ1YKLIGmpIUIFpYqcOa2CYoqeeiy4WoUWyysAT9KOzr7AXEcwv\",\"ttl\":1209600,\"created\":\"2019-05-22T08:25:22.848Z\",\"userId\":1}",
+      "qosJAcsEW1v6nx0s6wjFlDvpnByPUwbnGfZx3GLcOy5FGKzesCHCxdtinlTjiX1r": "{\"id\":\"qosJAcsEW1v6nx0s6wjFlDvpnByPUwbnGfZx3GLcOy5FGKzesCHCxdtinlTjiX1r\",\"ttl\":1209600,\"created\":\"2019-05-22T08:27:07.848Z\",\"userId\":1}",
+      "BwvcWuaNSBHF21U8K2ANqnaeR3LzfrAMfH4RpiNOzDdj9aF048oOoJ7kWeLEgMGH": "{\"id\":\"BwvcWuaNSBHF21U8K2ANqnaeR3LzfrAMfH4RpiNOzDdj9aF048oOoJ7kWeLEgMGH\",\"ttl\":1209600,\"created\":\"2019-05-22T08:31:30.620Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Product": {
+      "2": "{\"id\":2,\"name\":\"Apple Mac Mini\",\"price\":901,\"rating\":5}",
+      "4": "{\"id\":4,\"name\":\"HTC Chacha\",\"price\":200,\"rating\":31}",
+      "5": "{\"name\":\"Sony Xperia\",\"price\":600,\"rating\":5,\"id\":5}",
+      "6": "{\"id\":6,\"name\":\"Samsung Galaxy J8\",\"price\":400,\"rating\":21}",
+      "7": "{\"name\":\"LG LED 5600VW\",\"price\":550,\"rating\":1,\"id\":7}",
+      "11": "{\"name\":\"Apple Mac Mini Book\",\"price\":9000,\"rating\":5,\"id\":11}",
+      "16": "{\"name\":\"Samsung Galaxy J7\",\"price\":400,\"rating\":21,\"id\":16}",
+      "17": "{\"name\":\"Samsung Galaxy J6\",\"price\":400,\"rating\":21,\"id\":17}",
+      "18": "{\"name\":\"Samsung Galaxy J1\",\"price\":400,\"rating\":21,\"id\":18}"
+    }
+  }
+}
